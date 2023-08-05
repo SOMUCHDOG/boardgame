@@ -46,7 +46,7 @@ public class GameController : MonoBehaviour
     }
 
     /// <summary>
-    /// 
+    /// Returns the value of the ball in terms of units of movement. 
     /// </summary>
     /// <param name="s"></param>
     /// <returns></returns>
